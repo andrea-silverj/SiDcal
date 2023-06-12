@@ -11,8 +11,13 @@ Interpretation of the values:
 if codon_table_A=codon_table_B, SiD is equal to 0
 
 optional arguments:
+
   -h, --help        show this help message and exit
+  
   -a codon_table_A  |e.g., a virus codon table
+  
   -b codon_table_B  |e.g., a host codon table
+  
   -ex               |Print an example of the input format
+  
   -ref              |Print the full reference of the Zhou et al.'s paper
