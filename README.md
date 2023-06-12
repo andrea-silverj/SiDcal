@@ -1,5 +1,5 @@
 # SiDcal
-Similarity index calculator for codon usage analysis
+## Similarity index calculator for codon usage analysis
 
 usage: SiDcal.py [-h] [-a codon_table_A] [-b codon_table_B] [-ex] [-ref]
 
